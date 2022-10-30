@@ -40,5 +40,5 @@ export class homeService {
   }
 
   //protected urlNLU : string = 'http://127.0.0.1:8080/bws/v1/services/ibm?';
-  //protected urlNLU : string = 'https://api.entva0.dev.vonagenetworks.net/bws/v1/services/ibm?';
+
 }
